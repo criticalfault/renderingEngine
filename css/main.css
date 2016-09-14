@@ -1,0 +1,23 @@
+img
+{
+	margin-top: 290px;
+	object-fit: none;
+	object-position: 0px 0px;
+	width: 145px;
+	height: 150px;
+
+}
+
+button
+{
+	width: 100px;
+	height: 40px;
+}
+
+section
+{
+	background-image: url("../assets/bg.png");
+	background-repeat: repeat-x;
+	margin-bottom: 10px;
+	height: 500px;
+}
